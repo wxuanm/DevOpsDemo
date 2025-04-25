@@ -1,3 +1,3 @@
 # DevOpsDemo
-push 1
+push
 
